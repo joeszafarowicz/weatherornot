@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : wrench
     
   - title                                 : No Third Party Services
-    description                           : Powered by the WeatherKit service directly from Apple. No need to worry about your information being tracked.
+    description                           : Powered by the WeatherKit service directly from Apple. No need to worry about pesky third parties.
     fontawesome_icon_name                 : lock
 
   - title                                 : No Purchase Necessary
