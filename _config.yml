@@ -35,17 +35,13 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Plenty of Forecasts
-    description                           : View the current forecast of the weather around you, as well as up to 10 days in advance. 
-    fontawesome_icon_name                 : umbrella
-
   - title                                 : Built with Simplicity
     description                           : Designed and built with simplicity in mind to leave you feeling prepared for the weather around you.
     fontawesome_icon_name                 : wrench
     
   - title                                 : No Third Party Services
     description                           : Powered by the WeatherKit service directly from Apple. No need to worry about your information being tracked.
-    fontawesome_icon_name                 : shield
+    fontawesome_icon_name                 : lock
 
   - title                                 : No Purchase Necessary
     description                           : Offered to you for free! No annoying ads or gimmicks!
