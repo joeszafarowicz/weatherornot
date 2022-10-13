@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Joseph Szafarowicz                                
+your_name                                 :                                 
 your_link                                 :                      
 your_city                                 :                                 
 email_address                             : 
@@ -41,11 +41,11 @@ features                                  :
 
   - title                                 : Built with Simplicity
     description                           : Designed and built with simplicity in mind to leave you feeling prepared for the weather around you.
-    fontawesome_icon_name                 : screwdriver-wrench
+    fontawesome_icon_name                 : wrench
     
   - title                                 : No Third Party Services
     description                           : Powered by the WeatherKit service directly from Apple. No need to worry about your information being tracked.
-    fontawesome_icon_name                 : bug-slash
+    fontawesome_icon_name                 : shield
 
   - title                                 : No Purchase Necessary
     description                           : Offered to you for free! No annoying ads or gimmicks!
